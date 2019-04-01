@@ -1,4 +1,4 @@
-# Skyline-Problem
+Skyline-Problem
 Consider you are given a set of n rectangles in no particular order. They have varying widths and heights, but their bottom edges are lying in the same straight line. In other words they resemble buildings on a skyline. 
 For each building, you are given the height of building as it is an element of integer array.For instance;
 if A,given array, was [0,2,5,4,0,4,1], the building cluster would be the illustration below
